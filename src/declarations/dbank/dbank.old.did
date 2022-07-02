@@ -1,0 +1,4 @@
+service : {
+  topUP: (nat) -> () oneway;
+  withdrawl: (nat) -> () oneway;
+}
